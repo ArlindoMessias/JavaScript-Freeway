@@ -39,4 +39,4 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
  - Baixe os arquivos do projeto. 
  - Descompacte a pasta e faça o upload dos arquivos no ambiente do p5.js.
  
- :warning: Ao criar um novo projeto no p5.js, por padrão, são criados os seguintes arquivos: index.html, style.css e sketch.js. Certifique-se de atualizá-los para os arquivos desse projeto durante o upload.
+ :warning: Ao criar um novo projeto no p5.js, por padrão, são criados os seguintes arquivos: index.html, style.css e sketch.js. Certifique-se de atualizá-los para os arquivos desse projeto durante o upload. Além disso, reproduza a mesma organização de pastas dentro do ambiente p5.js para a correta execução do projeto.
