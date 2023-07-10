@@ -28,6 +28,7 @@ Com o projeto finalizado, será obtido um jogo com uma trilha sonora, um persona
 
 ## Exemplo de Funcionamento da Aplicação
 Link do projeto: https://arlindomessias.github.io/JavaScript-Freeway/
+
 ![exemplo freeway](https://github.com/ArlindoMessias/JavaScript-Freeway/assets/47644068/58b73435-4a94-49d5-88cd-cc3b256959c2)
 
 ## Pré-requisitos
